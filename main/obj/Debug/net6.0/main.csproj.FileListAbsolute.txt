@@ -1,0 +1,15 @@
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/bin/Debug/net6.0/main
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/bin/Debug/net6.0/main.deps.json
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/bin/Debug/net6.0/main.runtimeconfig.json
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/bin/Debug/net6.0/main.dll
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/bin/Debug/net6.0/ref/main.dll
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/bin/Debug/net6.0/main.pdb
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/obj/Debug/net6.0/main.csproj.AssemblyReference.cache
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/obj/Debug/net6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/obj/Debug/net6.0/main.AssemblyInfoInputs.cache
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/obj/Debug/net6.0/main.AssemblyInfo.cs
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/obj/Debug/net6.0/main.csproj.CoreCompileInputs.cache
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/obj/Debug/net6.0/main.dll
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/obj/Debug/net6.0/ref/main.dll
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/obj/Debug/net6.0/main.pdb
+/media/goodboy/9EB1-D14A/Projects/dotnet_projects/Calculator/main/obj/Debug/net6.0/main.genruntimeconfig.cache
